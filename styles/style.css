@@ -31,7 +31,7 @@ z-index: 1;
   min-height: 565px;
   max-height: 700px;
   /* parameters for the header section */
-  background-color:  #F2F2F2 ;
+  background-color: #F2F2F2;
 }
 .header__title{
   display: flex; /* flexibe el contenido*/
@@ -96,7 +96,7 @@ z-index: 1;
 .two-columns {
   display:flex;
   width: 220px;
-  height: 510px; 
+  height: 510px;
 }
 .two-columns__brief{
   width: 175px;
@@ -220,7 +220,7 @@ margin-bottom: 20px;
   margin-top: 450px;
   height: 36px;
   width: 330px;
-  font-size: 36px; 
+  font-size: 36px;
   font-weight: normal;
   line-height: 51px;
 }
@@ -231,7 +231,7 @@ margin-bottom: 20px;
   margin-top: 395px;
   right: 48px;
   line-height: 48px;
-  font-size: 36px; 
+  font-size: 36px;
   font-weight: normal;
 color: #2F80ED;
  }
@@ -312,7 +312,7 @@ color: #2F80ED;
   color: #F2F2F2 ;
 }
 .kaufman__triangle{
-  overflow: hidden; 
+  overflow: hidden;
   position: absolute;
   width: 660px;
   height: 636px;
@@ -405,7 +405,7 @@ color: #F2F2F2;
   height: 20px;
   margin-left: 10px;
   width: 70%;
-  color: #F2F2F2 ; 
+  color: #F2F2F2 ;
 }
 .footes__social-icons{
  height: 16px;
