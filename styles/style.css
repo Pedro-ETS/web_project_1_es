@@ -89,7 +89,7 @@ z-index: 1;
   min-width: 784px;
   width: 80%;
   height: 510px;
-  margin-top:100px ;
+  margin-top:100px;
   margin-left: 10%;
   margin-right: 10%; 
 }
@@ -299,7 +299,7 @@ color: #2F80ED;
   font-weight: bolt;
   width: 100%;
   height: 20px;
-  color: #F2F2F2 ;
+  color: #F2F2F2;
  }
 .table__text_theme_dark{
   display: flex;
@@ -309,7 +309,7 @@ color: #2F80ED;
   font-size: 18px;
   font-weight: normal;
   margin-top: 20px;
-  color: #F2F2F2 ;
+  color: #F2F2F2;
 }
 .kaufman__triangle{
   overflow: hidden;
@@ -370,7 +370,7 @@ margin-top: 0px;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  color: #F2F2F2 ;
+  color: #F2F2F2;
 }
 .footer__column-heading{
   position: absolute;
@@ -380,7 +380,7 @@ margin-top: 0px;
   font-size: 18px;
   font-weight: bold;
   margin-top: 0px;
-  color: #F2F2F2 ;
+  color: #F2F2F2;
 } 
 .footer_list{
 height: 80px;
@@ -397,7 +397,7 @@ color: #F2F2F2;
   font-weight: bold;
   margin-top: 0px;
   margin-left: 22px;
-  color: #F2F2F2 ;
+  color: #F2F2F2;
 }
 .footer__column-link{
   display: flex;
@@ -405,7 +405,7 @@ color: #F2F2F2;
   height: 20px;
   margin-left: 10px;
   width: 70%;
-  color: #F2F2F2 ;
+  color: #F2F2F2;
 }
 .footes__social-icons{
  height: 16px;
