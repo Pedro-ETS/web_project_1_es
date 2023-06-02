@@ -29,7 +29,7 @@ z-index: 1;
   max-height: 756px;
  /* parameters for the header section */
   height: 756px;
-  position: relative;          
+  position: relative;
   display: flex;
   background-color: #F2F2F2;
 }
