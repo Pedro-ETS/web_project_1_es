@@ -78,6 +78,7 @@ overflow: hidden;
     position: absolute;
     top: 0px;
     right: 100px;
+    text-decoration: none;
   }
   .khan__buy-link:hover{
     opacity: 0.5;

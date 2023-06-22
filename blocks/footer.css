@@ -15,7 +15,7 @@
       margin-right: 5%;
       }
       .footer__column{
-      min-width: 200px;
+      min-width: 130px;
       height: 220px;
       }
     .footer__column_content_copyright{
@@ -29,6 +29,7 @@
     position: absolute;
     display: flex;
     right: 0px;
+    width: 120px;
     }
     .logo_place_footer{
       position: absolute;
@@ -50,33 +51,37 @@
       position: absolute;
       display: flex;
       height: 30px;
-     width:  280px;
+      width:  280px;
       line-height: 30px;
       font-size: 18px;
       font-weight: bold;
       margin-top: 0px;
-      justify-content: center;
       color: #F2F2F2;
     }
     .footer__list{
-    height: 80px;
-    width: 200px;
-    margin-top: 60px;
-    margin-right: 0px;
-    color: #F2F2F2;
+      position: absolute;
+      top:60px;
+      height: 80px;
+      min-width: 120px;
+      line-height: 30px;
+      color: #F2F2F2;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
     }
     .footer__column-link{
       display: flex;
-      align-items: flex-end;
       height: 20px;
-      width: 50%;
-      margin-left: 77px;
+      max-width: 120px;
       color: #F2F2F2;
+      text-decoration: none;
+      align-items: center;
     }
+    
     .footer__social-icons{
      height: 16px;
     width: 16px;
-    
+    margin-right: 10px;
     }
     .footer__social-text{
     height: 16px;

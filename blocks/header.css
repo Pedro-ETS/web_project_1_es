@@ -16,6 +16,7 @@
     line-height: 96px;/* altura del texto*/
     font-size: 102px;
     font-weight: bold;
+    z-index: 1;
   }
   .header__subtitle{
     position: absolute;
@@ -25,12 +26,12 @@
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
+    z-index: 2;
   }
   .header__link{
     position: absolute;
     left: 64px;/* da un margen */
     bottom: 30px;
-    
   }
   .header__link:hover{
     opacity: 0.5;
@@ -54,18 +55,15 @@
     height: 568px;
     width: 568px;
     transform: rotate(-15deg);
-    
   }
-
   .logo{
     width: 154px;
     height: 31px;
     z-index: 1;
     }
-    .logo_place_header{
-      position: absolute;
-      margin-left: 64px;
-      margin-top: 30px;
-      background-repeat: no-repeat;
-    
+  .logo_place_header{
+    position: absolute;
+    margin-left: 64px;
+    margin-top: 30px;
+   background-repeat: no-repeat;
     }
